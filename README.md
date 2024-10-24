@@ -14,7 +14,7 @@ This project demonstrates how to create an AWS Lambda function and an Amazon API
 
 [Pulumi](https://www.pulumi.com/docs/iac/get-started/aws/) installed and configured on your machine
 
-[AWSCredentials] (https://docs.aws.amazon.com/cli/v1/userguide/cli-chap-configure.html) configured on your machine
+[AWSCredentials] (https://docs.aws.amazon.com/cli/v1/userguide/cli-chap-configure.html) setup and configured on your machine
 
 ## Getting Started <a name="GettingStarted"></a>
 
